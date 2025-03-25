@@ -19,8 +19,6 @@ research employed a binary variable – default payment
 
 There are 23 explanatory variables:
 
-This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. \
-This study used the following 23 variables as explanatory variables:
 - LIMIT_BAL: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit.
 - SEX: Gender (1 = male; 2 = female).
 - EDUCATION: Education (1 = graduate school; 2 = university; 3 = high school; 4 = others).
