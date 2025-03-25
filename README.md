@@ -1,4 +1,3 @@
-# Credit Risk Defaults comparative study
 
 ![image info](pictures/image1.png)
 
