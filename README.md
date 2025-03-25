@@ -1,5 +1,7 @@
 # Credit Risk Defaults comparative study
 
+![image info](pictures/image1.png)
+
 ## Introduction
 
 This project conducts a comparative study of different machine‑learning and deep learning models, evaluating both their classification accuracy and their ability to estimate the true probability of an individual’s class membership. Classification performance is assessed using metrics such as error rate, while probability calibration is evaluated via the Sorting Smoothing Method in a risk‑management context. The analysis using the “Default of Credit Card Clients, Taiwan 2005” dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients?fbclid=IwY2xjawJO-XdleHRuA2FlbQIxMAABHVTywu6Qx2uUPBRIr4Ok_TK7dswnh-qnUJn0xb0ArjPZ7-UTknqTCHVcJg_aem_4Yv9f48SV0XG_RLQOy5qxQ).
